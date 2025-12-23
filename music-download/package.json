@@ -1,0 +1,21 @@
+{
+  "name": "music-download",
+  "version": "1.0.0",
+  "description": "A music download tool with custom music sources support",
+  "main": "",
+  "keywords": [
+    "music",
+    "download",
+    "kuwo",
+    "lx-music"
+  ],
+  "author": "PDone",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
